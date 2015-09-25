@@ -1,8 +1,7 @@
 package main
 
 import "fmt"
-
+//修改测试
 func main() {
-    //this is a test line
     fmt.Println("hello world!")
 }
